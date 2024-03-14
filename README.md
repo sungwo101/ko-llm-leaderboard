@@ -2,4 +2,4 @@
 
 
 - oopsung/Yi-Ko-ENCdpo 모델 1/31 기준 0~7B 모델 중 7등 달성
-![ㄱㄷㄱㄷㄱㄷ](https://github.com/sungwo101/ko-llm-leaderboard/assets/74895635/fbe1ce81-11f4-43a1-8add-82d951c2b9cf)
+<img src="[이미지주소](https://github.com/sungwo101/ko-llm-leaderboard/assets/74895635/fbe1ce81-11f4-43a1-8add-82d951c2b9cf)https://github.com/sungwo101/ko-llm-leaderboard/assets/74895635/fbe1ce81-11f4-43a1-8add-82d951c2b9cf.png" width="200" height="400"/>
